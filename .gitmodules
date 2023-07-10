@@ -31,3 +31,6 @@
 [submodule "lib/nxp/mcux-sdk"]
 	path = lib/nxp/mcux-sdk
 	url = https://github.com/NXPmicro/mcux-sdk.git
+[submodule "lib/nordic/nrfx"]
+	path = lib/nordic/nrfx
+	url = https://github.com/NordicSemiconductor/nrfx.git
